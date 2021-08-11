@@ -49,10 +49,7 @@ body{
     color: var(--main-color);
 }
 
-.navbar-toggler{
-     
-    
-}
+
 .navbar-toggler-icon i{
     text-align: center;
 }
